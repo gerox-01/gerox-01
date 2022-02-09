@@ -33,5 +33,5 @@ jobs:
 
       - name: Update-gist
         run: 
-          go install github.com/YouEclipse/waka-box-go/cmd/box@latest
+          go install github.com/YouEclipse/waka-box-go/cmd/box
           box
