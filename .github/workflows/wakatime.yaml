@@ -1,7 +1,6 @@
 name: Update gist with WakaTime stats
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - master
@@ -17,7 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      GIST_ID: 7a22cf2e4159eedd5367211f58e2597a
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GIST_ID: 9bc7025496e478f439b9cd43eba989a4
       GIST_BARSTYLE: SOLIDLT
       GIST_BARLENGTH: -1
       GIST_TIMESTYLE: SHORT
@@ -33,4 +33,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update-gist
-        run: go install github.com/YouEclipse/waka-box-go@latest && box
+        run: go install github.com/YouEclipse/waka-box-go/cmd/box@latest && box
