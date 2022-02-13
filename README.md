@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 <!-- - 👯 I’m looking to collaborate on SINTEG -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerox-01&layout=compact)](https://wakatime.com/@GeroxDev) 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=geroxdev)](https://wakatime.com/@GeroxDev) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerox-01&theme=graywhite&show_icons=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
