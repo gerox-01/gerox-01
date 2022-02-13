@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gerox)](https://github.com/anuraghazra/github-readme-stats) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerox&theme=graywhite&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerox-01&theme=graywhite&show_icons=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
