@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on SINTEG and independent
+- 🔭 I’m currently working and independent
 - 🌱 I’m currently learning about technology and universe
 - 💬 Ask me anything you want
 - 📫 How to reach me: social networks @Gerox-01
